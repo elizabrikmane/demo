@@ -1,2 +1,4 @@
-# demo
-My test project
+# Demo Project
+### My first test project
+
+Once upon a time something happened
