@@ -1,5 +1,5 @@
 # Demo Project
-### My first test project
+
 ##### Video about Python
 
 <a href="https://youtu.be/9hOvzXg8BJQ
