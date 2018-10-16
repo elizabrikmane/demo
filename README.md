@@ -6,3 +6,7 @@
 " target="_blank"><img src="https://mocuddley.files.wordpress.com/2017/06/python.png?w=700" 
 alt="IMAGE ALT TEXT HERE" width="700" height="317" border="10" /></a>
 
+```python
+a = 22
+print (a)
+```
